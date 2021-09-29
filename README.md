@@ -1,6 +1,6 @@
 # Awesome Hotwire
 
-> A curated list of awesome things related to Hotwire, a component of Ruby on Rails
+> A curated list of awesome things related to Hotwire, a component for Ruby on Rails to build an interactive, realtime, modern app
 
 ## Table of Contents
 
@@ -29,8 +29,9 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [Stimulus Component](https://stimulus-components.netlify.app/)
 
 ## Related Awesome Lists
-- [awesome-stimulusjs](https://github.com/skatkov/awesome-stimulusjs)
+- [awesome-ruby](https://github.com/gramantin/awesome-ruby)
 - [awesome-rails](https://github.com/gramantin/awesome-rails)
+- [awesome-stimulusjs](https://github.com/skatkov/awesome-stimulusjs)
 
 ## Community
 - [Hotwire Discuss](https://discuss.hotwired.dev)
