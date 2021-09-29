@@ -15,10 +15,10 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 [Back to top][link_toc]
 
-### Resource
+## Resource
 
-## Video Tutorial
-# Hotwire
+### Video Tutorial
+#### Hotwire
 - [Hotwire Demo](https://www.youtube.com/watch?v=eKY-QES1XQQ)
 - [GoRails](https://gorails.com/series/hotwire-rails) *(with subscriptions)
 - [DriftingRuby](https://www.driftingruby.com/episodes?query%5Bname%5D=&tag=hotwire) *(with subscriptions)
@@ -26,7 +26,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 [Back to top][link_toc]
 
-# Stimulus
+### StimulusJS
 - [GoRails](https://gorails.com/series/stimulus-js) *(with subscriptions)
 - [DriftingRuby](https://www.driftingruby.com/episodes?query%5Bname%5D=&tag=stimulusjs) *(with subscriptions)
 
@@ -35,7 +35,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 ## Libraries
 
-# Stimulus
+### StimulusJS
 - [Stimulus Component](https://stimulus-components.netlify.app/)
 
 
