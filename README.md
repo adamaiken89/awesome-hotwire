@@ -1,6 +1,6 @@
 # Awesome Hotwire
 
-> A curated list of awesome things related to Hotwire, a component for Ruby on Rails to build an interactive, realtime, modern app
+> A curated list of awesome things related to Hotwire, a component for Ruby on Rails developers to build interactive, realtime, modern apps
 
 
 ## Official Documentation
