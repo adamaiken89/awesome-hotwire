@@ -8,7 +8,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 ## Official Documentation
 
-- [Hotwire Official Website] https://hotwired.dev
+- [Hotwire Official Website](https://hotwired.dev)
 - [Hotwire Official Blog](https://world.hey.com/hotwired)
 - [Turbo Source Code](https://github.com/hotwired/turbo)
 - [Stimulus Source Code](https://github.com/hotwired/stimulus)
@@ -32,6 +32,10 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [awesome-ruby](https://github.com/gramantin/awesome-ruby)
 - [awesome-rails](https://github.com/gramantin/awesome-rails)
 - [awesome-stimulusjs](https://github.com/skatkov/awesome-stimulusjs)
+
+## Blogs
+- [DevTo](https://dev.to/t/hotwire)
+- [Stackoverflow](https://stackoverflow.com/questions/tagged/hotwire-rails)
 
 ## Community
 - [Hotwire Discuss](https://discuss.hotwired.dev)
