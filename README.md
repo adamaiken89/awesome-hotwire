@@ -13,11 +13,15 @@
 
 ## Resource
 
+### Tutorial
+- [Hotrails.dev](https://www.hotrails.dev/)
+
 ### Video Tutorial
 - [Hotwire Demo](https://www.youtube.com/watch?v=eKY-QES1XQQ)
 - [GoRails](https://gorails.com/series/hotwire-rails) *(with subscriptions)
 - [DriftingRuby](https://www.driftingruby.com/episodes?query%5Bname%5D=&tag=hotwire) *(with subscriptions)
 - [Pragmatic Studio](https://pragmaticstudio.com/courses/hotwire-rails)
+- [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
 
 
 ### Libraries
