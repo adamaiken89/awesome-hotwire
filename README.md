@@ -15,6 +15,7 @@
 
 ### Tutorial
 - [Hotrails.dev](https://www.hotrails.dev/)
+- [hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)
 
 ### Video Tutorial
 - [Hotwire Demo](https://www.youtube.com/watch?v=eKY-QES1XQQ)
