@@ -13,17 +13,19 @@
 
 ## Resource
 
+### Book
+- [Agile Web Development with Rails 7](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/)
+
 ### Tutorial
 - [Hotrails.dev](https://www.hotrails.dev/)
 - [hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)
 
-### Video Tutorial
+### Screencasts
 - [Hotwire Demo](https://www.youtube.com/watch?v=eKY-QES1XQQ)
 - [GoRails](https://gorails.com/series/hotwire-rails) *(with subscriptions)
 - [DriftingRuby](https://www.driftingruby.com/episodes?query%5Bname%5D=&tag=hotwire) *(with subscriptions)
 - [Pragmatic Studio](https://pragmaticstudio.com/courses/hotwire-rails)
 - [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
-
 
 ### Libraries
 - [Stimulus Component](https://stimulus-components.netlify.app/)
