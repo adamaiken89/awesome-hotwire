@@ -14,10 +14,11 @@
 ## Resource
 
 ### Book
-- [Agile Web Development with Rails 7](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/)
+- [Agile Web Development with Rails 7](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7)
+- [Hotwire Native for Rails Developers ](https://pragprog.com/titles/jmnative/hotwire-native-for-rails-developers)
 
 ### Tutorial
-- [Hotrails.dev](https://www.hotrails.dev/)
+- [Hotrails.dev](https://www.hotrails.dev)
 - [hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)
 
 ### Screencasts
