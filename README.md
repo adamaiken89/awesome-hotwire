@@ -14,7 +14,7 @@
 ## Resource
 
 ### Book
-- [Agile Web Development with Rails 7](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7)
+- [Agile Web Development with Rails 8](https://pragprog.com/titles/rails8/agile-web-development-with-rails-8)
 - [Hotwire Native for Rails Developers ](https://pragprog.com/titles/jmnative/hotwire-native-for-rails-developers)
 
 ### Tutorial
