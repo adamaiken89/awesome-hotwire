@@ -11,13 +11,13 @@
 - [Stimulus Source Code](https://github.com/hotwired/stimulus)
 
 
-## Resource
+## Resources
 
-### Book
+### Books
 - [Agile Web Development with Rails 8](https://pragprog.com/titles/rails8/agile-web-development-with-rails-8)
 - [Hotwire Native for Rails Developers ](https://pragprog.com/titles/jmnative/hotwire-native-for-rails-developers)
 
-### Tutorial
+### Tutorials
 - [Hotrails.dev](https://www.hotrails.dev)
 - [hotwire-example-template](https://github.com/thoughtbot/hotwire-example-template)
 
@@ -40,6 +40,6 @@
 - [DevTo](https://dev.to/t/hotwire)
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/hotwire-rails)
 
-## Community
+## Forums
 - [Hotwire Discuss](https://discuss.hotwired.dev)
 
